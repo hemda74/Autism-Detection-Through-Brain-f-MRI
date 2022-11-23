@@ -1,5 +1,5 @@
 
-## programming languge and tools used
+## Programming Languge and Tools used in the project 
 ### python,sklraen, google colab, jupyter notebook,
 ## ML supervised Learning Models 
 ### Decision Tree
@@ -15,21 +15,21 @@ Abstract: Autistic Spectrum Disorder (ASD) is a neurodevelopment condition assoc
 The rapid growth in the number of ASD cases worldwide necessitates datasets related to behaviour traits. However, such datasets are rare making it difficult to perform thorough analyses to improve the efficiency, sensitivity, specificity and predictive accuracy of the ASD screening process. Presently, very limited autism datasets associated with clinical or screening are available and most of them are genetic in nature. Hence, we propose a new dataset related to autism screening of adults that contained 20 features to be utilised for further analysis especially in determining influential autistic traits and improving the classification of ASD cases. In this dataset, we record ten behavioural features (AQ-10-Adult) plus ten individuals characteristics that have proved to be effective in detecting the ASD cases from controls in behaviour science.
 
 Road Map:
-# Step 0: Import Datasets.
+### Step 0: Import Datasets.
 
-# Step 1: Clean Datasets (The data needs to be cleaned; many rows contain missing data, and there may be erroneous data identifiable as outliers).
+### Step 1: Clean Datasets (The data needs to be cleaned; many rows contain missing data, and there may be erroneous data identifiable as outliers).
 
-# Step 2: A quick visualization with Seaborn.
+### Step 2: A quick visualization with Seaborn.
 
-# Step 3: At First, We applied several Supervised Machine Learning (SML) techniques on the data for classification purpose.
+### Step 3: At First, We applied several Supervised Machine Learning (SML) techniques on the data for classification purpose.
 
-# Step 4: Next, We experimented with different topologies, optimizers, and hyperparameters for different models.
+### Step 4: Next, We experimented with different topologies, optimizers, and hyperparameters for different models.
 
-# Step 5: Model tuning.
+### Step 5: Model tuning.
 
-# Step 6: Feature Selection.
+### Step 6: Feature Selection.
 
-# Step 7: Then We built a Multi-Layer Perceptron and train it to classify indivisual with ASD based on its features.
+### Step 7: Then We built a Multi-Layer Perceptron and train it to classify indivisual with ASD based on its features.
 
-# Step 8: Conclusion.
+### Step 8: Conclusion.
 
