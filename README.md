@@ -3,6 +3,11 @@ Predictive Model that Uses Machine Learning Models To predict ASD using "Autisti
 UCI repository
 ## programming languge and tools used
 ### python,sklraen, google colab, jupyter notebook,
-## ML Models
+## ML supervised Learning Models 
 ### Decision Tree
 ### Random Forest
+### Logistic Regression
+### Support Vector Machine
+### KNN
+
+
