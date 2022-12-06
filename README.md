@@ -17,11 +17,21 @@ Road Map:
 
 ### Step 3: At First, We applied several Supervised Machine Learning (SML) techniques on the data for classification purpose.
 #### ML supervised Learning Models 
-##### Decision Tree
-##### Random Forest
-##### Logistic Regression
-##### Support Vector Machine
-##### KNN
+##### (1): Decision Trees
+
+##### (2) Random Forest
+
+##### (3) Support Vector Machines (SVM)
+
+##### (4) K-Nearest Neighbors (KNeighbors)
+
+##### (5) Gaussian Naive Bayes (GaussianNB)
+
+##### (6) Logistic Regression
+
+##### (7) Linear Discriminant Analysis (LDA)
+
+##### (8) Quadratic Discriminant Analysis (QDA)
 
 ### Step 4: Next, We experimented with different topologies, optimizers, and hyperparameters for different models.
 
