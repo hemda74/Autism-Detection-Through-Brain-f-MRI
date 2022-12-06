@@ -22,6 +22,12 @@ Road Map:
 ### Step 2: A quick visualization with Seaborn.
 
 ### Step 3: At First, We applied several Supervised Machine Learning (SML) techniques on the data for classification purpose.
+#### ML supervised Learning Models 
+##### Decision Tree
+##### Random Forest
+##### Logistic Regression
+##### Support Vector Machine
+##### KNN
 
 ### Step 4: Next, We experimented with different topologies, optimizers, and hyperparameters for different models.
 
