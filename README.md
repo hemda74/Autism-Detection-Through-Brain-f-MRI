@@ -1,12 +1,6 @@
 
 ## Programming Languge and Tools used in the project 
-### python,sklraen, google colab, jupyter notebook,
-## ML supervised Learning Models 
-### Decision Tree
-### Random Forest
-### Logistic Regression
-### Support Vector Machine
-### KNN
+### python,sklraen, google colab, jupyter notebook
 # Machine learning approaches to the classification problem for autism spectrum disorder
 We'll be using the "Autistic Spectrum Disorder Screening Data for Adult And Toddels" public dataset from the UCI repository. The datset was donated by Prof. Fadi Thabtah, after being published in the article "Autism Spectrum Disorder Screening: Machine Learning Adaptation and DSM-5 Fulfillment". You can find the article by Fadi Thabtah online. The data we investigate here consists of small changes to the original dataset, such as removing the 'age_desc' feature and records with missing or ill-formatted entries. Very few published articles are available online as the dataset has not been out for long and as a result refernce to a benchmark model is very rare.
 
